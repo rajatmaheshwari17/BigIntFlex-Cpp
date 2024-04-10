@@ -1,15 +1,3 @@
-/*
-Name - Rajat Maheshwari
-Student Id - 1964136
-Cruzid - ramahesh
-Course - CSE 101 
-Quarter - Winter 2024
-Professor - Mr. Patrick Tantalo
-Programming Assignment - 6
-Due Date - March 4, 2024
-File Name - Arithmetic.cpp
-*/
-
 #include "BigInteger.h"
 #include <fstream>
 #include <limits>
